@@ -96,7 +96,6 @@
 
 .box-fixed{
   position: fixed;
-  /* ai menu fixed dare senpre uno z-index alto */
   z-index: 999;
   top: 0;
   left: 0;
